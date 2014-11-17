@@ -14,7 +14,7 @@ Pod::Spec.new do |s|
 
     s.source_files = 'Classes/ios/*.{h,m}'
     s.platform = :ios
-    s.ios.deployment_target = '7.0'
+    s.ios.deployment_target = '7.1'
     s.requires_arc = true
     s.dependency 'FSClassExtensions', '~> 1.0'
 end
