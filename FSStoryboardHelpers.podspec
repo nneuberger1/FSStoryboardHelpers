@@ -8,7 +8,7 @@ Pod::Spec.new do |s|
                             'Bennett Smith'         => 'bennett@focalshift.com'
                         }
     s.source       =    { 
-                            :git => "https://github.com/FocalShift/FSStoryboardHelpers.git",
+                            :git => "https://github.com/nneuberger1/FSStoryboardHelpers.git",
                             :tag => "#{s.version}"
                         }
 
